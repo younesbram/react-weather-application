@@ -1,27 +1,9 @@
 # HACKTOBERFEST-ACCEPTED
 ![Screenshot (8)](https://user-images.githubusercontent.com/72355377/198371433-8a530e8b-ccb0-4110-86d9-a34874708d66.png)
 
-# How to Contribute : 
-  1. Check for the issues present and ask them to be assigned to you, if you think you can solve them. Then apply for a Pull Request(PR), I will accept it        after I review it.
+Contribution :
+     Please fork this and PR with appropiate comments and keep mind of linting.
   
-     OR
-     
-     Open a new issue, if you find some bug or have improvement ideas. Then apply for a Pull Request(PR), I will accept it after I review it.
-  3. Add your name in the CONTRIBUTING.md file. 
-
-# This is what the website looks like :
-https://stellar-pie-6964b6.netlify.app
-
-![Screenshot (5)](https://user-images.githubusercontent.com/72355377/198275266-411fd7c7-ad21-4c3d-bdea-20654b2a0584.png)
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
